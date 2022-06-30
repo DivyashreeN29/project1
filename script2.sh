@@ -1,4 +1,5 @@
 #!/bin/bash
-read n1
-read n2
+n1=4
+n2=3
 prod=`expr $n1 \* $n2`
+echo "The Product of two number is $ prod
